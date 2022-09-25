@@ -1,2 +1,2 @@
-# HonorBand5_NieR-Automata-theme
-Theme for Honor Band 5 in NieR: Automata GUI style
+# HonorBand5_NieR-Automata-watchface
+Watchface for Honor Band 5 in NieR: Automata GUI style
