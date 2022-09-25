@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>HonorBand5NierAutomataUI</title>
+    <title-cn>HonorBand5NierAutom</title-cn>
+    <author>ProviceUnify</author>
+    <designer>ProviceUnify</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"en_US":"Honor Band 5 WatchFace based on Nier Automata UI design guide.
+https://www.platinumgames.com/official-blog/article/9624"}</briefinfo>
+</HwTheme>
