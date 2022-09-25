@@ -7,3 +7,4 @@ HwWatchFaceDesigner (Windows) and Health app (Android) from this [site](https://
 # Used materials and information
 1. [NieR: Automata GUI guide and screenshots](https://www.platinumgames.com/official-blog/article/9624)
 2. [Useful information](https://www.reddit.com/r/Honor/comments/h8w0na/how_to_install_thirdparty_or_custom_watch_faces/)
+3. [Font - Rodin Pro DB](https://fontsgeek.com/fonts/fot-rodin-pro-db)
